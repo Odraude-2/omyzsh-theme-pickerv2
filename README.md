@@ -3,7 +3,8 @@
 A terminal-based interface (TUI) to preview and apply **Oh-My-Zsh** themes in real-time. 
 It runs the theme in a secure sandbox, capturing the exact prompt with all ANSI colors and symbols, without modifying your shell until you click apply.
 
-![Preview](https://via.placeholder.com/800x400?text=Pending+Screenshot)
+<img width="1123" height="495" alt="Screenshot_20260204_235634" src="https://github.com/user-attachments/assets/e8fc3710-e50e-46bc-9353-58cd700fd6c2" />
+
 
 ## Features
 - **Real-time Preview**: See exactly how the prompt looks (Git integration, time, colors).
