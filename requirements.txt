@@ -1,0 +1,4 @@
+textual>=0.47.1
+rich>=13.7.0
+pexpect>=4.9.0
+requests>=2.31.0

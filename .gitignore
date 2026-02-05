@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.cache/
+tui.log
+tui_errors.log
+.DS_Store
+.idea/
+.vscode/
