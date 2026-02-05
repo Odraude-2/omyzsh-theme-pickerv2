@@ -7,3 +7,7 @@ tui_errors.log
 .DS_Store
 .idea/
 .vscode/
+build/
+dist/
+*.spec
+__pycache__/
